@@ -2,7 +2,7 @@
 
 # Abstract
 
-Having worked in software for over a decade I have come into contact with many ways of coding and testing. Together with a colleague I have given session on how pairing can improve productivity - and in many situations I believe it can indeed do that. But should testers and developers pair on things or should they be separated by the proverbial fence? What about working in large groups?
+Having worked in software for over a decade I have come into contact with many ways of coding and testing. Together with a colleague I have given sessions on how pairing can improve productivity - and in many situations I believe it can indeed do that. But should testers and developers pair on things or should they be separated by the proverbial fence? What about working in large groups?
 
 Where is the data?
 
@@ -39,3 +39,30 @@ Display + external keyboard/mouse for each pair would be great.
 Mobbing:
 A group of people will work on one machine, testing and fixing bugs.
 A big screen or projector + additional room would be great.
+
+# Conference experience:
+
+CAST 2014
+Psychology and Engineering of Testing (Talk together with Ilari Aegerter)
+
+Let’s Test 2015 
+Coders to the Left, Testers to the Right (3 hours workshop together with Phil Quinn)
+
+Agile Testing Days 2015
+Embedded Agile Testing – A Practical Example (2 hours workshop together with Phil Quinn)
+
+Copenhagen Context 2016
+Embedded Agile Testing - A Practical Example (Full-day workshop)
+
+Nordic Testing Days 2016
+Embedded Agile Testing - A Practical Example (Full-day tutorial together with Phil Quinn)
+
+Nordic Testing Days 2017
+Traditional Setup vs. Pairing vs. Mobbing - An Experiment for Testers and Developers (Full-day tutorial together with Phil Quinn)
+
+Let’s Test South Africa 2017
+Traditional Setup vs. Pairing vs. Mobbing - An Experiment for Testers and Developers
+(2 hours workshop with Janco Wolmarans)
+
+CAST 2018
+Traditional Setup vs. Pairing vs. Mobbing - An Experiment for Testers and Developers (Full-day tutorial)
