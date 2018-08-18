@@ -42,27 +42,27 @@ A big screen or projector is needed.
 
 ## Conference experience:
 
-CAST 2014
+- CAST 2014
 Psychology and Engineering of Testing (Talk together with Ilari Aegerter)
 
-Let’s Test 2015 
+- Let’s Test 2015 
 Coders to the Left, Testers to the Right (3 hours workshop together with Phil Quinn)
 
-Agile Testing Days 2015
+- Agile Testing Days 2015
 Embedded Agile Testing – A Practical Example (2 hours workshop together with Phil Quinn)
 
-Copenhagen Context 2016
+- Copenhagen Context 2016
 Embedded Agile Testing - A Practical Example (Full-day workshop)
 
-Nordic Testing Days 2016
+- Nordic Testing Days 2016
 Embedded Agile Testing - A Practical Example (Full-day tutorial together with Phil Quinn)
 
-Nordic Testing Days 2017
+- Nordic Testing Days 2017
 Traditional Setup vs. Pairing vs. Mobbing - An Experiment for Testers and Developers (Full-day tutorial together with Phil Quinn)
 
-Let’s Test South Africa 2017
+- Let’s Test South Africa 2017
 Traditional Setup vs. Pairing vs. Mobbing - An Experiment for Testers and Developers
 (2 hours workshop with Janco Wolmarans)
 
-CAST 2018
+- CAST 2018
 Traditional Setup vs. Pairing vs. Mobbing - An Experiment for Testers and Developers (Full-day tutorial)
