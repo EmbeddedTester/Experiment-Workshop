@@ -32,11 +32,11 @@ Attendees should bring a laptop with the Chrome browser.
 
 It’s not necessarily needed to have developers participating. Everybody with some experience in web development or automation can act as a developer during the workshop.
 
-### Pairing:
+#### Pairing:
 Tester and developer work on the same machine with access to the code.
 Display + external keyboard/mouse for each pair would be great.
 
-### Mobbing:
+#### Mobbing:
 A group of people will work on one machine, testing and fixing bugs.
 A big screen or projector is needed.
 
