@@ -1,6 +1,6 @@
 # Traditional Setup vs. Pairing vs. Mobbing - An Experiment for Testers and Developers
 
-# Abstract
+## Abstract
 
 Having worked in software for over a decade I have come into contact with many ways of coding and testing. Together with a colleague I have given sessions on how pairing can improve productivity - and in many situations I believe it can indeed do that. But should testers and developers pair on things or should they be separated by the proverbial fence? What about working in large groups?
 
@@ -12,7 +12,7 @@ In this workshop you will experience to work in 3 configurations: as a lone test
 
 Together we will compare your experiences and will try to draw conclusions about which configuration works best in which situation.
 
-# Key takeaways:
+## Key takeaways:
 
 - Learn the basics of pairing
 - Learn the basics of mob programming/mob testing
@@ -22,25 +22,25 @@ Together we will compare your experiences and will try to draw conclusions about
 - Learn which way of working might be suitable for what kind of task
 
 
-# Workshop length:
+## Workshop length:
 
 Full-day workshop
 
-# Requirements
+## Requirements
 
 Attendees should bring a laptop with the Chrome browser.
 
 It’s not necessarily needed to have developers participating. Everybody with some experience in web development or automation can act as a developer during the workshop.
 
-Pairing:
+### Pairing:
 Tester and developer work on the same machine with access to the code.
 Display + external keyboard/mouse for each pair would be great.
 
-Mobbing:
+### Mobbing:
 A group of people will work on one machine, testing and fixing bugs.
-A big screen or projector + additional room would be great.
+A big screen or projector is needed.
 
-# Conference experience:
+## Conference experience:
 
 CAST 2014
 Psychology and Engineering of Testing (Talk together with Ilari Aegerter)
